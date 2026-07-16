@@ -88,7 +88,7 @@ SINGBOX_TESTER_TIMEOUT_SECONDS = 10
 # List of URLs to test sing-box configs against.
 # The tester will try each URL in order until one succeeds.
 SINGBOX_TESTER_URLS = [
-    'https://www.youtube.com/generate_204'
+    'http://www.youtube.com/generate_204'
     #'https://www.gstatic.com/generate_204'
 ]
 
@@ -110,7 +110,7 @@ XRAY_TESTER_TIMEOUT_SECONDS = 10
 # List of URLs to test Xray configs against.
 # The tester will try each URL in order until one succeeds.
 XRAY_TESTER_URLS = [
-    'https://www.youtube.com/generate_204'
+    'http://www.youtube.com/generate_204'
     #'https://www.gstatic.com/generate_204'
 ]
 
