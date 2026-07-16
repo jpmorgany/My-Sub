@@ -36,50 +36,6 @@ ENABLED_PROTOCOLS = {
 # Configurations older than this will be considered invalid.
 MAX_CONFIG_AGE_DAYS = 1
 
-# --- Sing-box Config Tester Settings ---
-
-# Set to True to enable testing of configs using sing-box.
-# If True, sing-box will be used to test all fetched configs and create a 'tested' config file.
-# If False, the testing step will be skipped.
-ENABLE_SINGBOX_TESTER = True
-
-# Number of parallel workers to use for testing sing-box configs.
-# A higher number means faster testing but uses more CPU/RAM.
-SINGBOX_TESTER_MAX_WORKERS = 8
-
-# Maximum time (in seconds) to wait for a sing-box config to respond during testing.
-# Configs that take longer than this will be marked as failed.
-SINGBOX_TESTER_TIMEOUT_SECONDS = 10
-
-# List of URLs to test sing-box configs against.
-# The tester will try each URL in order until one succeeds.
-SINGBOX_TESTER_URLS = [
-    'http://www.youtube.com/generate_204'
-    #'https://www.gstatic.com/generate_204'
-]
-
-# --- Xray Config Tester Settings ---
-
-# Set to True to enable testing of configs using Xray core.
-# If True, Xray will be used to test all fetched configs before conversion and create a 'tested' config file.
-# If False, the testing step will be skipped.
-ENABLE_XRAY_TESTER = True
-
-# Number of parallel workers to use for testing Xray configs.
-# A higher number means faster testing but uses more CPU/RAM.
-XRAY_TESTER_MAX_WORKERS = 8
-
-# Maximum time (in seconds) to wait for an Xray config to respond during testing.
-# Configs that take longer than this will be marked as failed.
-XRAY_TESTER_TIMEOUT_SECONDS = 10
-
-# List of URLs to test Xray configs against.
-# The tester will try each URL in order until one succeeds.
-XRAY_TESTER_URLS = [
-    'http://www.youtube.com/generate_204'
-    #'https://www.gstatic.com/generate_204'
-]
-
 # --- Location API Settings ---
 
 # List of free IP geolocation APIs to identify server countries.
