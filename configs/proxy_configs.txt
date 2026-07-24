@@ -69,6 +69,7 @@
 
 
 
+
 hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?insecure=1&sni=www.bing.com#🇺🇸 1 - US - Hysteria2/QUIC - 14656
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇺🇸 2 - US - Hysteria2/QUIC - 4433
@@ -199,9 +200,9 @@ hysteria2://Qre45Hk3Yh@140.233.177.48:33884?sni=www.oracle.com&obfs=salamander&o
 
 hysteria2://Xiao456.@45.205.31.175:5443?insecure=1&sni=vpn.cyedu.xyz#🇺🇸 65 - US - Hysteria2/QUIC - 5443
 
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1#🇸🇬 66 - SG - Hysteria2/QUIC - 8443
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1#🇺🇸 66 - US - Hysteria2/QUIC - 8443
 
-hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#🇸🇬 67 - SG - Hysteria2/QUIC - 8443
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=209.74.81.28#🇺🇸 67 - US - Hysteria2/QUIC - 8443
 
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?sni=hy2.123266.xyz#🇺🇸 68 - US - Hysteria2/QUIC - 33333
 
@@ -317,15 +318,15 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-
 
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52067?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj&security=tls#🇺🇸 124 - US - Hysteria2/QUIC/OBFS - 52067
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇫🇮 125 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇺🇸 125 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls&fm={#🇫🇮 126 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls&fm={#🇺🇸 126 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&fp=safari&nonce=Tyb4jLA3&fm={#🇫🇮 127 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&fp=safari&nonce=Tyb4jLA3&fm={#🇺🇸 127 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={"quicParams":{"brutalDown":"60mbps","brutalUp":"60mbps","congestion":"brutal","debug":false,"disablePathMTUDiscovery":false,"initConnectionReceiveWindow":20971520,"initStreamReceiveWindow":8388608,"keepAlivePeriod":10,"maxConnectionReceiveWindow":20971520,"maxIdleTimeout":30,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608},"udp":[{"settings":{"password":"8zzng75tz4tf82pj"},"type":"salamander"}]}&fp=safari&security=tls#🇫🇮 128 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={"quicParams":{"brutalDown":"60mbps","brutalUp":"60mbps","congestion":"brutal","debug":false,"disablePathMTUDiscovery":false,"initConnectionReceiveWindow":20971520,"initStreamReceiveWindow":8388608,"keepAlivePeriod":10,"maxConnectionReceiveWindow":20971520,"maxIdleTimeout":30,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608},"udp":[{"settings":{"password":"8zzng75tz4tf82pj"},"type":"salamander"}]}&fp=safari&security=tls#🇺🇸 128 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={#🇫🇮 129 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={#🇺🇸 129 - US - Hysteria2/QUIC/OBFS - 8443
 
 hysteria2://eltgrek81o6w5cd4@news.dd.msk.su:443?sni=news.dd.msk.su&obfs=salamander&obfs-password=9b5cujsederxbp59#🇺🇸 130 - US - Hysteria2/QUIC/OBFS - 443
 
@@ -427,13 +428,13 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1#🇺🇸 178 - U
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1&nonce=6kv_XbHU#🇺🇸 179 - US - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1#🇸🇬 180 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1#🇺🇸 180 - US - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&nonce=ELk7a9T_#🇸🇬 181 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&nonce=ELk7a9T_#🇺🇸 181 - US - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1#🇸🇬 182 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1#🇺🇸 182 - US - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&nonce=BMKylyUf#🇸🇬 183 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1&nonce=BMKylyUf#🇺🇸 183 - US - Hysteria2/QUIC - 443
 
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#🇺🇸 184 - US - Hysteria2/QUIC/OBFS - 9443
 
@@ -475,15 +476,15 @@ trojan://521314@220.135.92.105:2087?security=tls&sni=tjplay.lxdxo.kdns.fr&insecu
 
 trojan://521314@220.135.92.105:2087?security=tls&sni=tjplay.lxdxo.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjplay.lxdxo.kdns.fr&path=/&fp=safari#🇺🇸 17 - US - Trojan/WS/TLS/UTLS - 2087
 
-trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳 @WangCai2&fp=edge#🇧🇿 18 - BZ - Trojan/WS/TLS/UTLS - 443
+trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳 @WangCai2&fp=edge#🇺🇸 18 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳 @WangCai2&fp=ios#🇧🇿 19 - BZ - Trojan/WS/TLS/UTLS - 443
+trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&host=tjplay.lxdxo.kdns.fr&path=/Telegram🇨🇳 @WangCai2&fp=ios#🇺🇸 19 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=android#🇧🇿 20 - BZ - Trojan/WS/TLS/UTLS - 443
+trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=android#🇺🇸 20 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=edge#🇧🇿 21 - BZ - Trojan/WS/TLS/UTLS - 443
+trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=edge#🇺🇸 21 - US - Trojan/WS/TLS/UTLS - 443
 
-trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=random#🇧🇿 22 - BZ - Trojan/WS/TLS/UTLS - 443
+trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=random#🇺🇸 22 - US - Trojan/WS/TLS/UTLS - 443
 
 trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇺🇸 23 - US - Trojan/TLS/UTLS - 4443
 
@@ -601,13 +602,13 @@ vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@meowfin.nethcloud.top:443?type=tcp&
 
 vless://c0aa0cee-e855-4bcc-9afc-46241cb17990@fast_s89.screw.page:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fast_s89.screw.page#🇺🇸 15 - US - VLESS/TLS/VISION/UTLS - 443
 
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&security=none&encryption=none#🇹🇼 16 - TW - VLESS - 10000
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&security=none&encryption=none#🇺🇸 16 - US - VLESS - 10000
 
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&security=none&encryption=none&fp=firefox#🇹🇼 17 - TW - VLESS/UTLS - 10000
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@61.221.84.107:10000?type=tcp&security=none&encryption=none&fp=firefox#🇺🇸 17 - US - VLESS/UTLS - 10000
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?type=grpc&security=tls&fp=random&sni=sca35.afterdomain.shop#🇺🇸 18 - US - VLESS/GRPC/TLS/UTLS - 443
 
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=fn.fifapes.monster&headerType=http#🇺🇸 19 - US - VLESS - 2090
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?type=tcp&security=none&encryption=none&sni=fn.fifapes.monster&headerType=http#🇫🇮 19 - FI - VLESS - 2090
 
 vless://f387e32c-a8ab-4adf-9c5c-fe371cf78f6b@26bc92586944.apruxdomain.online:80?type=ws#🏳️ 20 - XX - VLESS/WS - 80
 
