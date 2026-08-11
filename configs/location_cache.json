@@ -1,313 +1,57 @@
 {
-  "194.87.222.7": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "140.233.177.48": [
-    "🇩🇰",
-    "Denmark"
-  ],
-  "91.107.152.188": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "westmusic.ojcenter.com": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "172.245.189.138": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "34.219.182.57": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "216.24.57.1": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "13.250.29.24": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "hu2.vpnjantit.com": [
-    "🇭🇺",
-    "Hungary"
-  ],
-  "2.56.204.246": [
-    "🇦🇲",
-    "Armenia"
-  ],
-  "ge1.cyphervpn.pro": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "ru.faygo.bot": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "38.107.234.57": [
-    "🇰🇿",
-    "Kazakhstan"
-  ],
-  "5.255.102.165": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "nrealistic.nn-foto.ru": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "82.22.53.30": [
-    "🇮🇸",
-    "Iceland"
-  ],
-  "fn.fifapes.monster": [
-    "🇱🇻",
-    "Latvia"
-  ],
-  "202.146.222.174": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "freetg.strettenvpn.com": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "x9k-7m.se.auragg.org": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "hkt.ccwink.cc": [
-    "🇭🇰",
-    "Hong Kong"
-  ],
-  "109.206.241.10": [
-    "🇪🇪",
-    "Estonia"
-  ],
-  "61.221.84.107": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
-  ],
-  "all.tellmethetrue.shop": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "fast_s89.screw.page": [
-    "🇩🇪",
-    "Germany"
-  ],
-  "151.101.56.7": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "151.101.34.144": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "fast88.screw.page": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "vpn-tw-002.fastervpn.world": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
-  ],
-  "45.131.5.9": [
-    "🇧🇿",
-    "Belize"
-  ],
-  "aestheticperforator.ru": [
-    "🇸🇪",
-    "Sweden"
-  ],
-  "cze-01.node.lumixnet.com": [
-    "🇨🇿",
-    "Czechia"
-  ],
-  "85.120.228.208": [
-    "🇷🇴",
-    "Romania"
-  ],
-  "81.255.155.10": [
-    "🇫🇷",
-    "France"
-  ],
-  "news.dd.msk.su": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "45.88.43.116": [
-    "🇯🇵",
-    "Japan"
-  ],
-  "54.255.220.11": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "jazzghost.com": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "89.116.180.49": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "13.229.106.122": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "220.135.92.105": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
-  ],
-  "bel-02.node.lumixnet.com": [
-    "🇧🇪",
-    "Belgium"
-  ],
-  "144.31.113.56": [
-    "🇵🇱",
-    "Poland"
-  ],
-  "209.74.81.28": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "sub.anespy.xyz": [
-    "🇱🇻",
-    "Latvia"
-  ],
-  "80.66.81.78": [
-    "🇷🇺",
-    "Russian Federation"
-  ],
-  "gbos2.osvp.online": [
-    "🇬🇧",
-    "United Kingdom of Great Britain and Northern Ireland"
-  ],
-  "54.251.212.188": [
-    "🇸🇬",
-    "Singapore"
-  ],
-  "vn2.yuntong.click": [
-    "🇻🇳",
-    "Viet Nam"
-  ],
-  "89.116.250.135": [
-    "🇱🇹",
-    "Lithuania"
-  ],
-  "130.49.161.70": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "ppm.nsuex.com": [
-    "🇩🇰",
-    "Denmark"
-  ],
-  "43.130.7.3": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "assets.gateway-stream.com": [
-    "🇫🇮",
-    "Finland"
-  ],
-  "hy2.aspidnet.xyz": [
-    "🇳🇱",
-    "Netherlands (Kingdom of the)"
-  ],
-  "kr04212339.tmdsb.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "54.245.180.117": [
-    "🇺🇸",
-    "United States of America"
-  ],
-  "202.61.205.86": [
-    "🇩🇪",
-    "Germany"
-  ],
   "singular-lark.rooster465.autos": [
     "🏳️",
     "Unknown"
   ],
-  "45.155.103.217": [
-    "🇫🇷",
-    "France"
+  "45.205.31.175": [
+    "🇭🇰",
+    "Hong Kong"
   ],
-  "103.115.109.49": [
-    "🇹🇼",
-    "Taiwan (Province of China)"
+  "194.87.222.7": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
+  ],
+  "www.multiplydose.com": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "netraidly.ru": [
+    "🇳🇱",
+    "Netherlands (Kingdom of the)"
   ],
   "swed1.helper-internet.com": [
     "🇸🇪",
     "Sweden"
   ],
+  "aestheticperforator.ru": [
+    "🇸🇪",
+    "Sweden"
+  ],
+  "44.245.99.184": [
+    "🇺🇸",
+    "United States of America"
+  ],
+  "54.251.212.188": [
+    "🇸🇬",
+    "Singapore"
+  ],
+  "109.206.241.10": [
+    "🇪🇪",
+    "Estonia"
+  ],
+  "47.129.9.33": [
+    "🇸🇬",
+    "Singapore"
+  ],
   "localhost": [
     "🇺🇸",
     "United States"
   ],
-  "meowfin.nethcloud.top": [
+  "220.135.92.105": [
     "🇺🇸",
     "United States"
   ],
-  "masir_sefid": [
-    "🏳️",
-    "Unknown"
-  ],
-  "hy2-new.aspidnet.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "hy2.123266.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "151.101.1.194": [
-    "🇺🇸",
-    "United States"
-  ],
-  "199.232.22.39": [
-    "🇺🇸",
-    "United States"
-  ],
-  "26bc92586944.apruxdomain.online": [
-    "🏳️",
-    "Unknown"
-  ],
-  "social.klipp.su": [
-    "🇺🇸",
-    "United States"
-  ],
-  "ggsel.windowshouse.xyz": [
-    "🇺🇸",
-    "United States"
-  ],
-  "musicclips.videolinks.ru": [
-    "🇺🇸",
-    "United States"
-  ],
-  "18.141.232.182": [
-    "🇺🇸",
-    "United States"
-  ],
-  "45.205.31.175": [
-    "🇺🇸",
-    "United States"
-  ],
-  "202.146.222.29": [
-    "🇺🇸",
-    "United States"
-  ],
-  "64.188.57.161": [
-    "🇺🇸",
-    "United States"
-  ],
-  "www.multiplydose.com": [
+  "2.56.204.246": [
     "🇺🇸",
     "United States"
   ],
@@ -315,39 +59,7 @@
     "🇺🇸",
     "United States"
   ],
-  "44.245.99.184": [
-    "🇺🇸",
-    "United States"
-  ],
-  "185.126.236.152": [
-    "🇺🇸",
-    "United States"
-  ],
-  "flb06181447.tmdsb.org": [
-    "🏳️",
-    "Unknown"
-  ],
-  "126.220.82.161": [
-    "🇺🇸",
-    "United States"
-  ],
-  "34.212.146.99": [
-    "🇺🇸",
-    "United States"
-  ],
-  "mypanel.unixzone.us": [
-    "🇺🇸",
-    "United States"
-  ],
-  "netraidly.ru": [
-    "🇺🇸",
-    "United States"
-  ],
-  "47.129.9.33": [
-    "🇺🇸",
-    "United States"
-  ],
-  "199.232.78.140": [
+  "81.255.155.10": [
     "🇺🇸",
     "United States"
   ],
@@ -355,11 +67,299 @@
     "🇺🇸",
     "United States"
   ],
-  "www.ignitelimit.com": [
+  "54.245.180.117": [
+    "🇺🇸",
+    "United States"
+  ],
+  "130.49.161.70": [
+    "🇺🇸",
+    "United States"
+  ],
+  "westmusic.ojcenter.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "61.221.84.107": [
+    "🇺🇸",
+    "United States"
+  ],
+  "news.dd.msk.su": [
+    "🇺🇸",
+    "United States"
+  ],
+  "gbos2.osvp.online": [
+    "🇺🇸",
+    "United States"
+  ],
+  "hy2.123266.xyz": [
+    "🇺🇸",
+    "United States"
+  ],
+  "fn.fifapes.monster": [
+    "🇺🇸",
+    "United States"
+  ],
+  "kr04212339.tmdsb.org": [
+    "🏳️",
+    "Unknown"
+  ],
+  "meowfin.nethcloud.top": [
+    "🇺🇸",
+    "United States"
+  ],
+  "85.120.228.208": [
     "🇺🇸",
     "United States"
   ],
   "140.245.74.46": [
+    "🇺🇸",
+    "United States"
+  ],
+  "all.tellmethetrue.shop": [
+    "🇺🇸",
+    "United States"
+  ],
+  "209.74.81.28": [
+    "🇺🇸",
+    "United States"
+  ],
+  "jazzghost.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "144.31.113.56": [
+    "🇺🇸",
+    "United States"
+  ],
+  "38.107.234.57": [
+    "🇺🇸",
+    "United States"
+  ],
+  "social.klipp.su": [
+    "🇺🇸",
+    "United States"
+  ],
+  "ppm.nsuex.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "flb06181447.tmdsb.org": [
+    "🏳️",
+    "Unknown"
+  ],
+  "freetg.strettenvpn.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "ru.faygo.bot": [
+    "🇺🇸",
+    "United States"
+  ],
+  "89.116.250.135": [
+    "🇺🇸",
+    "United States"
+  ],
+  "sub.anespy.xyz": [
+    "🇺🇸",
+    "United States"
+  ],
+  "cze-01.node.lumixnet.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "45.88.43.116": [
+    "🇺🇸",
+    "United States"
+  ],
+  "musicclips.videolinks.ru": [
+    "🇺🇸",
+    "United States"
+  ],
+  "x9k-7m.se.auragg.org": [
+    "🇺🇸",
+    "United States"
+  ],
+  "vpn-tw-002.fastervpn.world": [
+    "🇺🇸",
+    "United States"
+  ],
+  "151.101.34.144": [
+    "🇺🇸",
+    "United States"
+  ],
+  "ggsel.windowshouse.xyz": [
+    "🇺🇸",
+    "United States"
+  ],
+  "172.245.189.138": [
+    "🇺🇸",
+    "United States"
+  ],
+  "185.126.236.152": [
+    "🇺🇸",
+    "United States"
+  ],
+  "54.255.220.11": [
+    "🇺🇸",
+    "United States"
+  ],
+  "89.116.180.49": [
+    "🇺🇸",
+    "United States"
+  ],
+  "5.255.102.165": [
+    "🇺🇸",
+    "United States"
+  ],
+  "mypanel.unixzone.us": [
+    "🇺🇸",
+    "United States"
+  ],
+  "fast_s89.screw.page": [
+    "🇺🇸",
+    "United States"
+  ],
+  "140.233.177.48": [
+    "🇺🇸",
+    "United States"
+  ],
+  "18.141.232.182": [
+    "🇺🇸",
+    "United States"
+  ],
+  "45.131.5.9": [
+    "🇺🇸",
+    "United States"
+  ],
+  "199.232.78.140": [
+    "🇺🇸",
+    "United States"
+  ],
+  "151.101.1.194": [
+    "🇺🇸",
+    "United States"
+  ],
+  "202.146.222.174": [
+    "🇺🇸",
+    "United States"
+  ],
+  "26bc92586944.apruxdomain.online": [
+    "🏳️",
+    "Unknown"
+  ],
+  "103.115.109.49": [
+    "🇺🇸",
+    "United States"
+  ],
+  "45.155.103.217": [
+    "🇺🇸",
+    "United States"
+  ],
+  "hy2.aspidnet.xyz": [
+    "🇺🇸",
+    "United States"
+  ],
+  "nrealistic.nn-foto.ru": [
+    "🇺🇸",
+    "United States"
+  ],
+  "13.250.29.24": [
+    "🇺🇸",
+    "United States"
+  ],
+  "13.229.106.122": [
+    "🇺🇸",
+    "United States"
+  ],
+  "assets.gateway-stream.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "202.146.222.29": [
+    "🇺🇸",
+    "United States"
+  ],
+  "202.61.205.86": [
+    "🇺🇸",
+    "United States"
+  ],
+  "199.232.22.39": [
+    "🇺🇸",
+    "United States"
+  ],
+  "www.ignitelimit.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "82.22.53.30": [
+    "🇺🇸",
+    "United States"
+  ],
+  "43.130.7.3": [
+    "🇺🇸",
+    "United States"
+  ],
+  "vn2.yuntong.click": [
+    "🇺🇸",
+    "United States"
+  ],
+  "80.66.81.78": [
+    "🇺🇸",
+    "United States"
+  ],
+  "bel-02.node.lumixnet.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "ge1.cyphervpn.pro": [
+    "🇺🇸",
+    "United States"
+  ],
+  "64.188.57.161": [
+    "🇺🇸",
+    "United States"
+  ],
+  "hy2-new.aspidnet.xyz": [
+    "🇺🇸",
+    "United States"
+  ],
+  "hkt.ccwink.cc": [
+    "🇺🇸",
+    "United States"
+  ],
+  "34.219.182.57": [
+    "🇺🇸",
+    "United States"
+  ],
+  "126.220.82.161": [
+    "🇺🇸",
+    "United States"
+  ],
+  "216.24.57.1": [
+    "🇺🇸",
+    "United States"
+  ],
+  "34.212.146.99": [
+    "🇺🇸",
+    "United States"
+  ],
+  "151.101.56.7": [
+    "🇺🇸",
+    "United States"
+  ],
+  "91.107.152.188": [
+    "🇺🇸",
+    "United States"
+  ],
+  "hu2.vpnjantit.com": [
+    "🇺🇸",
+    "United States"
+  ],
+  "masir_sefid": [
+    "🏳️",
+    "Unknown"
+  ],
+  "fast88.screw.page": [
     "🇺🇸",
     "United States"
   ]
