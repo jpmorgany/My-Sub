@@ -578,6 +578,7 @@
 
 
 
+
 hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?insecure=1&sni=www.bing.com#🇺🇸 1 - US - Hysteria2/QUIC - 14656
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇩🇪 2 - DE - Hysteria2/QUIC - 4433
@@ -826,15 +827,15 @@ hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52062?sni=assets.gateway-
 
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52067?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=txwr28j1lntoy0sj&security=tls#🇫🇮 124 - FI - Hysteria2/QUIC/OBFS - 52067
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇫🇮 125 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#🇺🇸 125 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls&fm={#🇫🇮 126 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&fp=safari&security=tls&fm={#🇺🇸 126 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&fp=safari&nonce=Tyb4jLA3&fm={#🇫🇮 127 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?obfs=salamander&obfs-password=8zzng75tz4tf82pj&security=tls&fp=safari&nonce=Tyb4jLA3&fm={#🇺🇸 127 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={"quicParams":{"brutalDown":"60mbps","brutalUp":"60mbps","congestion":"brutal","debug":false,"disablePathMTUDiscovery":false,"initConnectionReceiveWindow":20971520,"initStreamReceiveWindow":8388608,"keepAlivePeriod":10,"maxConnectionReceiveWindow":20971520,"maxIdleTimeout":30,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608},"udp":[{"settings":{"password":"8zzng75tz4tf82pj"},"type":"salamander"}]}&fp=safari&security=tls#🇫🇮 128 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={"quicParams":{"brutalDown":"60mbps","brutalUp":"60mbps","congestion":"brutal","debug":false,"disablePathMTUDiscovery":false,"initConnectionReceiveWindow":20971520,"initStreamReceiveWindow":8388608,"keepAlivePeriod":10,"maxConnectionReceiveWindow":20971520,"maxIdleTimeout":30,"maxIncomingStreams":1024,"maxStreamReceiveWindow":8388608},"udp":[{"settings":{"password":"8zzng75tz4tf82pj"},"type":"salamander"}]}&fp=safari&security=tls#🇺🇸 128 - US - Hysteria2/QUIC/OBFS - 8443
 
-hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={#🇫🇮 129 - FI - Hysteria2/QUIC/OBFS - 8443
+hysteria2://eltgrek81o6w5cd4@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj&fm={#🇺🇸 129 - US - Hysteria2/QUIC/OBFS - 8443
 
 hysteria2://eltgrek81o6w5cd4@news.dd.msk.su:443?sni=news.dd.msk.su&obfs=salamander&obfs-password=9b5cujsederxbp59#🇷🇺 130 - RU - Hysteria2/QUIC/OBFS - 443
 
@@ -1086,7 +1087,7 @@ vless://1ebd0a03-3ffd-47f2-80e8-3b701ef2a49a@sub.anespy.xyz:3351?type=tcp&securi
 
 vless://367ff772-a8f4-4895-8e99-3702a868f0c6@gbos2.osvp.online:443?type=grpc&security=tls&fp=chrome&sni=gbos2.osvp.online&mode=gun&serviceName=grpc-api#🇬🇧 3 - GB - VLESS/GRPC/TLS/UTLS - 443
 
-vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&sni=deepl.com#🇺🇸 4 - US - VLESS/REALITY/PBK/SID/VISION - 40443
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&sni=deepl.com#🇳🇱 4 - NL - VLESS/REALITY/PBK/SID/VISION - 40443
 
 vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:2089?type=grpc&security=reality&pbk=vdLIQuM7v4b6PzknfK1luaQdEWoWdRVbhNFm0a7_UFA&sid=85dc255ba7bbe54e&sni=shield.nvidia.asia&serviceName=products#🇺🇸 5 - US - VLESS/GRPC/REALITY/PBK/SID - 2089
 
@@ -1138,5 +1139,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgNSAtIEhLIC0gVk1lc3MvVExTL1VUTFMgLSAx
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgNiAtIEhLIC0gVk1lc3MvVExTIC0gMTAwODYiLCAiYWRkIjogIjQ1LjIwNS4zMS4xNzUiLCAicG9ydCI6IDEwMDg2LCAiaWQiOiAiMzNmMzg3NTgtODFkMi00M2IwLWE3NGEtMmQ3YzcwZWEyN2M4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAiaG9zdCI6ICJ2cG4uY3llZHUueHl6IiwgInRscyI6ICJ0bHMiLCAic25pIjogInZwbi5jeWVkdS54eXoiLCAidHlwZSI6ICJub25lIiwgInBhdGgiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh63wn4ewIDYgLSBISyAtIFZNZXNzL1RMUyAtIDEwMDg2In0=
 
-vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7rwn4e4IDcgLSBVUyAtIFZNZXNzL1dTIC0gODAifQ==
+vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAifQ==
 
