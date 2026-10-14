@@ -728,6 +728,7 @@
 
 
 
+
 hysteria2://0c62d145-d288-4b2c-9df3-8a76e6489d25@172.245.189.138:14656?insecure=1&sni=www.bing.com#🇺🇸 1 - US - Hysteria2/QUIC - 14656
 
 hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#🇩🇪 2 - DE - Hysteria2/QUIC - 4433
@@ -776,7 +777,7 @@ hysteria2://56ae4ec4-6705-43d0-bf3a-bc36ab3b3545@cze-01.node.lumixnet.com:443?sn
 
 hysteria2://6c077487-06af-4fb1-9e46-d485d98f0a31@45.88.43.116:52454?sni=www.bing.com#🇯🇵 24 - JP - Hysteria2/QUIC - 52454
 
-hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org#🇺🇸 25 - US - Hysteria2/QUIC - 8443
+hysteria2://87qety_hERGP8Y9_jqier3gw_nA8Q34_B2@45.155.103.217:8443?sni=kamil-power-machine.roxa.org#🇫🇷 25 - FR - Hysteria2/QUIC - 8443
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#🇹🇼 26 - TW - Hysteria2/QUIC - 443
 
@@ -822,9 +823,9 @@ hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?sni=5.255.102.165
 
 hysteria2://NZC2w2V2NQ@91.107.152.188:40460?sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#🇩🇪 47 - DE - Hysteria2/QUIC/OBFS - 40460
 
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#🇦🇹 48 - AT - Hysteria2/QUIC - 8443
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#🇺🇸 48 - US - Hysteria2/QUIC - 8443
 
-hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#🇦🇹 49 - AT - Hysteria2/QUIC - 8443
+hysteria2://Ov_98eqvJ9N8SE3_Bxhr238e_Ntz2_Sxc47_J2@185.126.236.152:8443?sni=key-hm-at.1cooldns.com#🇺🇸 49 - US - Hysteria2/QUIC - 8443
 
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#🇷🇴 50 - RO - Hysteria2/QUIC/OBFS - 443
 
@@ -1078,17 +1079,17 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1#🇸🇬 174 
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443?insecure=1&nonce=rlLDP7xH#🇸🇬 175 - SG - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1#🇸🇬 176 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1#🇺🇸 176 - US - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1&nonce=S9hDtE-6#🇸🇬 177 - SG - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443?insecure=1&nonce=S9hDtE-6#🇺🇸 177 - US - Hysteria2/QUIC - 443
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1#🇸🇬 178 - SG - Hysteria2/QUIC - 443
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.9.33:443?insecure=1&nonce=6kv_XbHU#🇸🇬 179 - SG - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1#🇺🇸 180 - US - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1#🇸🇬 180 - SG - Hysteria2/QUIC - 443
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&nonce=ELk7a9T_#🇺🇸 181 - US - Hysteria2/QUIC - 443
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443?insecure=1&nonce=ELk7a9T_#🇸🇬 181 - SG - Hysteria2/QUIC - 443
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443?insecure=1#🇸🇬 182 - SG - Hysteria2/QUIC - 443
 
@@ -1144,9 +1145,9 @@ trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&pat
 
 trojan://521314@45.131.5.9:443?security=tls&sni=tjplay.lxdxo.kdns.fr&type=ws&path=/Telegram @WangCai2&fp=random#🇧🇿 22 - BZ - Trojan/WS/TLS/UTLS - 443
 
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇺🇸 23 - US - Trojan/TLS/UTLS - 4443
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=android#🇭🇺 23 - HU - Trojan/TLS/UTLS - 4443
 
-trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=safari#🇺🇸 24 - US - Trojan/TLS/UTLS - 4443
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hu2.vpnjantit.com&fp=safari#🇭🇺 24 - HU - Trojan/TLS/UTLS - 4443
 
 trojan://MITIVPN@151.101.56.7:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=DD-E&security=tls&alpn=h2,http/1.1&sni=mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws#🇺🇸 25 - US - Trojan/WS/TLS/UTLS - 443
 
@@ -1186,9 +1187,9 @@ trojan://VPNCUSTOMIZE@89.116.250.135:443?type=xhttp&security=tls&path=/config&sn
 
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&sni=singular-lark.rooster465.autos#🏳️ 43 - XX - Trojan/TLS - 443
 
-trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=/&allowinsecure=0&type=tcp&headerType=none&fp=firefox#🇵🇱 44 - PL - Trojan/TLS/UTLS - 58371
+trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=/&allowinsecure=0&type=tcp&headerType=none&fp=firefox#🇺🇸 44 - US - Trojan/TLS/UTLS - 58371
 
-trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=/&allowinsecure=0&type=tcp&headerType=none&fp=random#🇵🇱 45 - PL - Trojan/TLS/UTLS - 58371
+trojan://e0847a89a1664221ad7dbfa85619afc3@144.31.113.56:58371?security=reality&sni=ymail.com&pbk=y_2T2eHweTAvMscT79ukT4yDLYyA7lLAOuSIhaxHNhI&sid=000cd4ed50cad4&spx=/&allowinsecure=0&type=tcp&headerType=none&fp=random#🇺🇸 45 - US - Trojan/TLS/UTLS - 58371
 
 trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?security=tls&sni=0403.infinityconfig4.workers.dev&insecure=0&allowInsecure=0&type=ws&host=0403.infinityconfig4.workers.dev&path=/sync&fp=chrome#🇺🇸 46 - US - Trojan/WS/TLS/UTLS - 443
 
@@ -1242,7 +1243,7 @@ vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:2089?type=grpc&securi
 
 vless://59da5351-5151-417d-b2f7-6923848b717e@swed1.helper-internet.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&sni=swed1.helper-internet.com#🇸🇪 6 - SE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
 
-vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?type=grpc&security=tls&sni=ge1.cyphervpn.pro&serviceName=ge1grpc#🇺🇸 7 - US - VLESS/GRPC/TLS - 8443
+vless://8bba3194-4856-46d1-8319-075817d87eb1@ge1.cyphervpn.pro:8443?type=grpc&security=tls&sni=ge1.cyphervpn.pro&serviceName=ge1grpc#🇩🇪 7 - DE - VLESS/GRPC/TLS - 8443
 
 vless://8bba3194-4856-46d1-8319-075817d87eb1@ge14.cyphervpn.pro:8443?type=grpc&security=tls&sni=ge14.cyphervpn.pro&serviceName=ge14grpc#🇩🇪 8 - DE - VLESS/GRPC/TLS - 8443
 
@@ -1288,5 +1289,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgNSAtIEhLIC0gVk1lc3MvVExTL1VUTFMgLSAx
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7AgNiAtIEhLIC0gVk1lc3MvVExTIC0gMTAwODYiLCAiYWRkIjogIjQ1LjIwNS4zMS4xNzUiLCAicG9ydCI6IDEwMDg2LCAiaWQiOiAiMzNmMzg3NTgtODFkMi00M2IwLWE3NGEtMmQ3YzcwZWEyN2M4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAiaG9zdCI6ICJ2cG4uY3llZHUueHl6IiwgInRscyI6ICJ0bHMiLCAic25pIjogInZwbi5jeWVkdS54eXoiLCAidHlwZSI6ICJub25lIiwgInBhdGgiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh63wn4ewIDYgLSBISyAtIFZNZXNzL1RMUyAtIDEwMDg2In0=
 
-vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7rwn4e4IDcgLSBVUyAtIFZNZXNzL1dTIC0gODAifQ==
+vmess://eyJwYXRoIjogIi92bWVzcy8iLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAibmV0IjogIndzIiwgInBzIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAiLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImhvc3QiOiAiIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJhaWQiOiAiMCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJuYW1lIjogIvCfh7Dwn4e/IDcgLSBLWiAtIFZNZXNzL1dTIC0gODAifQ==
 
